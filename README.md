@@ -38,12 +38,12 @@ ecourts_scraper/
 pip install -r requirements.txt
 ```
 
-**Example `requirements.txt`:**
+**`requirements.txt`:**
 
 ```
-Flask
-requests
-selenium
+Flask==2.3.6
+requests==2.32.1
+selenium==4.15.0
 ```
 
 3. Ensure **Python 3.10+** is installed.
